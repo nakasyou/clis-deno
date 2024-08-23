@@ -1,0 +1,15 @@
+{
+  "name": "@ns/cli",
+  "version": "0.1.0",
+  "exports": {
+    "./merge-mp4": "./merge-mp4.ts"
+  },
+  "imports": {
+    "@david/dax": "jsr:@david/dax@^0.41.0",
+    "@std/cli": "jsr:@std/cli@^1.0.3"
+  },
+  "fmt": {
+    "semiColons": false,
+    "singleQuote": true
+  }
+}
