@@ -1,6 +1,6 @@
 {
   "name": "@ns/cli",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "exports": {
     "./merge-mp4": "./merge-mp4.ts"
   },
